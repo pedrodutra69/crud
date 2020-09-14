@@ -209,7 +209,7 @@ namespace Aula_02_09_2020_CRUD
 
         }
 
-
+        //teste
         //arrumar -  paramos aqui aula 
         private void btnPesquisaNome_Click(object sender, EventArgs e)
         {
